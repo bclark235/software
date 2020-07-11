@@ -1,0 +1,1315 @@
+COORD_CHANGE 1,34,51,47,3
+CAMERA_CHANGE X Angle: 247, Y Angle: 
+MOUSE_CLICK (native)	LEFT coordinate: 967,10
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 545,29
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 451,49
+MOUSE_CLICK (native)	LEFT coordinate: 459,52
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 625,23
+MOUSE_CLICK (native)	LEFT coordinate: 37,68
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 38,11
+MOUSE_CLICK (native)	LEFT coordinate: 161,39
+MOUSE_CLICK (native)	LEFT coordinate: 166,32
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 40,66
+MOUSE_CLICK (native)	LEFT coordinate: 55,62
+MOUSE_CLICK (native)	LEFT coordinate: 157,49
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 50,46
+MOUSE_CLICK (native)	LEFT coordinate: 142,41
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 369,76
+MOUSE_CLICK (native)	LEFT coordinate: 825,74
+MOUSE_CLICK (native)	LEFT coordinate: 191,58
+MOUSE_CLICK (native)	LEFT coordinate: 529,53
+MOUSE_CLICK LEFT coordinate: 521,50
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 520,52
+MOUSE_CLICK LEFT coordinate: 512,48
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 38,44
+MOUSE_CLICK (native)	LEFT coordinate: 936,43
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 42,35
+MOUSE_CLICK (native)	LEFT coordinate: 46,37
+MOUSE_CLICK (native)	LEFT coordinate: 501,50
+MOUSE_CLICK LEFT coordinate: 493,47
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 781,74
+MOUSE_CLICK LEFT coordinate: 773,71
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on 3dose2restore (Super restore (3)) at 3,0,0,0,
+MOUSE_CLICK RIGHT coordinate: 760,13
+MOUSE_CLICK (native)	RIGHT coordinate: 768,16
+MOUSE_CLICK LEFT coordinate: 735,28
+MOUSE_CLICK (native)	LEFT coordinate: 743,31
+SERVER_TRIGGER IF_BUTTON6 on topstat_lore: renew_laye
+MOUSE_CLICK LEFT coordinate: 789,67
+MOUSE_CLICK (native)	LEFT coordinate: 797,70
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on 4dosecombosupremeoverload (Supreme overload potion (4)) at 3,0,0,0,
+MOUSE_CLICK LEFT coordinate: 484,46
+MOUSE_CLICK (native)	LEFT coordinate: 492,49
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK LEFT coordinate: 790,77
+MOUSE_CLICK (native)	LEFT coordinate: 798,80
+SERVER_TRIGGER IF_BUTTOND on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 517,53
+MOUSE_CLICK LEFT coordinate: 509,50
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK LEFT coordinate: 48,3
+MOUSE_CLICK (native)	LEFT coordinate: 56,6
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune_button: loot_duels_laye
+MOUSE_CLICK (native)	LEFT coordinate: 767,60
+MOUSE_CLICK (native)	LEFT coordinate: 81,31
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 615,44
+MOUSE_CLICK LEFT coordinate: 607,41
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+MOUSE_CLICK LEFT coordinate: 848,23
+MOUSE_CLICK (native)	LEFT coordinate: 856,26
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: com_85
+MOUSE_CLICK (native)	LEFT coordinate: 547,99
+MOUSE_CLICK (native)	LEFT coordinate: 539,102
+MOUSE_CLICK LEFT coordinate: 531,99
+SERVER_TRIGGER IF_BUTTON1 on chatdefault: legacy_text_report_abuse_
+MOUSE_CLICK LEFT coordinate: 575,59
+MOUSE_CLICK (native)	LEFT coordinate: 583,62
+SERVER_TRIGGER IF_BUTTON1 on report_choices_v2: report_bu
+MOUSE_CLICK (native)	LEFT coordinate: 524,59
+MOUSE_CLICK LEFT coordinate: 516,56
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: com_3
+MOUSE_CLICK LEFT coordinate: 635,48
+MOUSE_CLICK (native)	LEFT coordinate: 643,52
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: text_containe
+MOUSE_CLICK LEFT coordinate: 506,64
+MOUSE_CLICK (native)	LEFT coordinate: 514,67
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: com_3
+MOUSE_CLICK (native)	LEFT coordinate: 525,43
+MOUSE_CLICK LEFT coordinate: 517,40
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 724,37
+MOUSE_CLICK LEFT coordinate: 716,34
+SERVER_TRIGGER IF_BUTTON1 on bugreport_interface: bugreport_interface_close_butto
+MOUSE_CLICK (native)	LEFT coordinate: 448,40
+MOUSE_CLICK (native)	LEFT coordinate: 618,98
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 35,32
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 527,51
+MOUSE_CLICK LEFT coordinate: 519,48
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 882,76
+MOUSE_CLICK (native)	LEFT coordinate: 744,76
+MOUSE_CLICK (native)	LEFT coordinate: 283,
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 571,100
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 502,52
+MOUSE_CLICK LEFT coordinate: 494,49
+COORD_CHANGE 1,34,51,46,3
+SERVER_TRIGGER OPNPC1 on elfcity_pickpocket_trahaearn_multi_3_op (Trahaearn worker) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 56,56
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 591,96
+MOUSE_CLICK (native)	LEFT coordinate: 43,61
+MOUSE_CLICK (native)	LEFT coordinate: 38,66
+MOUSE_CLICK (native)	LEFT coordinate: 24,62
+MOUSE_CLICK (native)	LEFT coordinate: 175,78
+MOUSE_CLICK (native)	LEFT coordinate: 351,71
+MOUSE_CLICK (native)	LEFT coordinate: 567,53
+MOUSE_CLICK LEFT coordinate: 559,50
+COORD_CHANGE 1,34,51,47,3
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 544,102
+MOUSE_CLICK LEFT coordinate: 536,99
+SERVER_TRIGGER IF_BUTTON1 on chatdefault: legacy_text_report_abuse_
+MOUSE_CLICK LEFT coordinate: 690,39
+MOUSE_CLICK (native)	LEFT coordinate: 698,42
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on report_choices_v2: window_close_butto
+MOUSE_CLICK LEFT coordinate: 467,49
+MOUSE_CLICK (native)	LEFT coordinate: 475,52
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 39,5
+MOUSE_CLICK (native)	LEFT coordinate: 145,5
+MOUSE_CLICK (native)	LEFT coordinate: 813,48
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 524,53
+MOUSE_CLICK LEFT coordinate: 516,50
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 480,49
+MOUSE_CLICK (native)	LEFT coordinate: 488,52
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 41,42
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 474,51
+MOUSE_CLICK LEFT coordinate: 466,48
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	MIDDLE coordinate: 315,28
+MOUSE_CLICK RIGHT coordinate: 307,25
+CAMERA_CHANGE X Angle: 247, Y Angle: 
+CAMERA_CHANGE X Angle: 247, Y Angle: 
+KEY_PRESS Key Name: Enter, Key Code: 8
+KEY_PRESS Key Name: /, Key Code: 7
+KEY_PRESS Key Name: /, Key Code: 7
+KEY_PRESS Key Name: 1, Key Code: 1
+KEY_PRESS Key Name: 0, Key Code: 2
+KEY_PRESS Key Name: 0, Key Code: 2
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: V, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: Enter, Key Code: 8
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 35,7
+MOUSE_CLICK LEFT coordinate: 27,4
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune_button: loot_duels_laye
+MOUSE_CLICK (native)	LEFT coordinate: 524,79
+MOUSE_CLICK LEFT coordinate: 516,76
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh_promo_info_banne
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 547,49
+MOUSE_CLICK (native)	LEFT coordinate: 555,52
+MOUSE_CLICK (native)	LEFT coordinate: 555,52
+MOUSE_CLICK LEFT coordinate: 547,49
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: chest_model_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK LEFT coordinate: 615,44
+MOUSE_CLICK (native)	LEFT coordinate: 623,47
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: reroll_confirm_button_active_laye
+MOUSE_CLICK LEFT coordinate: 454,38
+MOUSE_CLICK (native)	LEFT coordinate: 462,41
+MOUSE_CLICK LEFT coordinate: 454,38
+MOUSE_CLICK (native)	LEFT coordinate: 462,41
+MOUSE_CLICK LEFT coordinate: 454,38
+MOUSE_CLICK (native)	LEFT coordinate: 462,41
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_layer_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK LEFT coordinate: 624,41
+MOUSE_CLICK (native)	LEFT coordinate: 632,44
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+MOUSE_CLICK (native)	LEFT coordinate: 628,41
+MOUSE_CLICK LEFT coordinate: 620,38
+MOUSE_CLICK LEFT coordinate: 620,38
+MOUSE_CLICK (native)	LEFT coordinate: 628,41
+MOUSE_CLICK (native)	LEFT coordinate: 628,41
+MOUSE_CLICK LEFT coordinate: 620,38
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK LEFT coordinate: 614,41
+MOUSE_CLICK (native)	LEFT coordinate: 622,44
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+MOUSE_CLICK LEFT coordinate: 534,47
+MOUSE_CLICK (native)	LEFT coordinate: 542,50
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: chest_model_
+MOUSE_CLICK (native)	LEFT coordinate: 542,50
+MOUSE_CLICK LEFT coordinate: 534,47
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK (native)	LEFT coordinate: 627,43
+MOUSE_CLICK LEFT coordinate: 619,40
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 712,49
+MOUSE_CLICK (native)	LEFT coordinate: 720,53
+MOUSE_CLICK LEFT coordinate: 713,49
+MOUSE_CLICK (native)	LEFT coordinate: 721,53
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: chest_model_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK LEFT coordinate: 715,49
+MOUSE_CLICK (native)	LEFT coordinate: 723,52
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK LEFT coordinate: 621,41
+MOUSE_CLICK (native)	LEFT coordinate: 629,44
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+MOUSE_CLICK LEFT coordinate: 374,36
+MOUSE_CLICK (native)	LEFT coordinate: 382,39
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_layer_
+MOUSE_CLICK LEFT coordinate: 390,37
+MOUSE_CLICK (native)	LEFT coordinate: 398,40
+MOUSE_CLICK LEFT coordinate: 398,37
+MOUSE_CLICK (native)	LEFT coordinate: 406,40
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK LEFT coordinate: 619,42
+MOUSE_CLICK (native)	LEFT coordinate: 627,45
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+MOUSE_CLICK LEFT coordinate: 377,46
+MOUSE_CLICK (native)	LEFT coordinate: 385,50
+MOUSE_CLICK (native)	LEFT coordinate: 383,50
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_layer_
+MOUSE_CLICK LEFT coordinate: 375,47
+MOUSE_CLICK LEFT coordinate: 374,47
+MOUSE_CLICK (native)	LEFT coordinate: 382,50
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: wheel_spin_button_active_layer_
+MOUSE_CLICK (native)	LEFT coordinate: 643,44
+MOUSE_CLICK LEFT coordinate: 635,41
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: trh99_claim_button_text_laye
+MOUSE_CLICK LEFT coordinate: 850,24
+MOUSE_CLICK (native)	LEFT coordinate: 858,27
+SERVER_TRIGGER IF_BUTTON1 on wheel_of_fortune: com_85
+MOUSE_CLICK (native)	LEFT coordinate: 474,51
+MOUSE_CLICK LEFT coordinate: 466,48
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 723,98
+MOUSE_CLICK (native)	LEFT coordinate: 731,101
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_ribbon: window_buil
+MOUSE_CLICK LEFT coordinate: 849,25
+MOUSE_CLICK (native)	LEFT coordinate: 857,28
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: side_modal_window_close_butto
+MOUSE_CLICK (native)	LEFT coordinate: 733,102
+MOUSE_CLICK LEFT coordinate: 725,99
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_ribbon: window_buil
+MOUSE_CLICK LEFT coordinate: 845,24
+MOUSE_CLICK (native)	LEFT coordinate: 853,27
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: side_modal_window_close_butto
+MOUSE_CLICK LEFT coordinate: 518,98
+MOUSE_CLICK (native)	LEFT coordinate: 526,101
+SERVER_TRIGGER IF_BUTTON1 on chatdefault: legacy_text_report_abuse_
+MOUSE_CLICK LEFT coordinate: 599,59
+MOUSE_CLICK (native)	LEFT coordinate: 607,62
+SERVER_TRIGGER IF_BUTTON1 on report_choices_v2: report_bu
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 456,56
+MOUSE_CLICK (native)	LEFT coordinate: 464,59
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: com_3
+MOUSE_CLICK LEFT coordinate: 654,43
+MOUSE_CLICK (native)	LEFT coordinate: 662,46
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: com_
+MOUSE_CLICK LEFT coordinate: 604,47
+MOUSE_CLICK (native)	LEFT coordinate: 612,50
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: text_containe
+MOUSE_CLICK LEFT coordinate: 346,47
+MOUSE_CLICK (native)	LEFT coordinate: 354,51
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: bug_report_top_issue
+MOUSE_CLICK (native)	LEFT coordinate: 634,49
+MOUSE_CLICK LEFT coordinate: 626,46
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: text_containe
+MOUSE_CLICK (native)	LEFT coordinate: 547,66
+MOUSE_CLICK LEFT coordinate: 539,63
+SERVER_TRIGGER IF_BUTTON1 on report_choices_category_v2: com_3
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Ctrl, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 579,39
+MOUSE_CLICK (native)	LEFT coordinate: 587,42
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: 2, Key Code: 1
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: 2, Key Code: 1
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: ,, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: O, Key Code: 4
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: ., Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: 1, Key Code: 1
+KEY_PRESS Key Name: X, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: K, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: V, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: V, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: ,, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: 2, Key Code: 1
+KEY_PRESS Key Name: X, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: ., Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: 1, Key Code: 1
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: K, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: 4, Key Code: 1
+KEY_PRESS Key Name: X, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: M, Key Code: 7
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: ., Key Code: 7
+MOUSE_CLICK LEFT coordinate: 556,52
+MOUSE_CLICK (native)	LEFT coordinate: 564,55
+SERVER_TRIGGER IF_BUTTON1 on bugreport_interface: next_butto
+MOUSE_CLICK LEFT coordinate: 525,40
+MOUSE_CLICK (native)	LEFT coordinate: 533,43
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: V, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: 2, Key Code: 1
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: L, Key Code: 5
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: ', Key Code: 5
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Shift, Key Code: 8
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: ,, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: ,, Key Code: 7
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: ', Key Code: 5
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: Y, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: P, Key Code: 4
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: ., Key Code: 7
+MOUSE_CLICK LEFT coordinate: 490,52
+MOUSE_CLICK (native)	LEFT coordinate: 498,55
+SERVER_TRIGGER IF_BUTTON1 on bugreport_interface: bugreport_interface_close_butto
+MOUSE_CLICK LEFT coordinate: 484,46
+MOUSE_CLICK (native)	LEFT coordinate: 492,49
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK LEFT coordinate: 484,46
+MOUSE_CLICK (native)	LEFT coordinate: 492,49
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 524,50
+MOUSE_CLICK LEFT coordinate: 516,47
+MOUSE_CLICK RIGHT coordinate: 742,43
+MOUSE_CLICK (native)	RIGHT coordinate: 750,46
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	RIGHT coordinate: 671,41
+MOUSE_CLICK RIGHT coordinate: 663,37
+MOUSE_CLICK (native)	RIGHT coordinate: 560,36
+MOUSE_CLICK RIGHT coordinate: 552,33
+MOUSE_CLICK LEFT coordinate: 470,47
+MOUSE_CLICK (native)	LEFT coordinate: 478,50
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK RIGHT coordinate: 564,42
+MOUSE_CLICK (native)	MIDDLE coordinate: 572,45
+CAMERA_CHANGE X Angle: 247, Y Angle: 
+MOUSE_CLICK LEFT coordinate: 650,36
+MOUSE_CLICK (native)	LEFT coordinate: 658,39
+CAMERA_CHANGE X Angle: 174, Y Angle: 193
+MOUSE_CLICK (native)	LEFT coordinate: 697,31
+MOUSE_CLICK LEFT coordinate: 689,28
+ROUTE GROUND: 1,34,51,52,4
+ROUTE GROUND: 1,34,51,56,4
+COORD_CHANGE 1,34,51,49,3
+MOUSE_CLICK LEFT coordinate: 698,26
+MOUSE_CLICK (native)	LEFT coordinate: 706,29
+COORD_CHANGE 1,34,51,51,3
+COORD_CHANGE 1,34,51,53,3
+COORD_CHANGE 1,34,51,55,3
+COORD_CHANGE 1,34,51,55,4
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+COORD_CHANGE 1,34,51,55,4
+COORD_CHANGE 1,34,51,56,4
+SERVER_TRIGGER OPLOC2 on elfcity_bank_chest (Bank chest) at 1,34,51,57,4
+MOUSE_CLICK RIGHT coordinate: 825,74
+MOUSE_CLICK (native)	RIGHT coordinate: 833,77
+MOUSE_CLICK (native)	LEFT coordinate: 296,51
+MOUSE_CLICK LEFT coordinate: 288,48
+SERVER_TRIGGER IF_BUTTON1 on bankpin_numbers: 
+MOUSE_CLICK (native)	LEFT coordinate: 485,57
+MOUSE_CLICK LEFT coordinate: 477,54
+SERVER_TRIGGER IF_BUTTON1 on bankpin_numbers: 
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 457,60
+MOUSE_CLICK (native)	LEFT coordinate: 465,63
+SERVER_TRIGGER IF_BUTTON1 on bankpin_numbers: 
+MOUSE_CLICK LEFT coordinate: 306,53
+MOUSE_CLICK (native)	LEFT coordinate: 314,57
+MOUSE_CLICK RIGHT coordinate: 827,74
+MOUSE_CLICK (native)	RIGHT coordinate: 835,77
+MOUSE_CLICK LEFT coordinate: 823,80
+MOUSE_CLICK (native)	LEFT coordinate: 831,83
+SERVER_TRIGGER IF_BUTTON4 on Unknown - Null component debugnam
+KEY_PRESS Key Name: Esc, Key Code: 1
+MOUSE_CLICK LEFT coordinate: 779,74
+MOUSE_CLICK (native)	LEFT coordinate: 787,77
+MOUSE_CLICK LEFT coordinate: 779,74
+MOUSE_CLICK (native)	LEFT coordinate: 787,77
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on trh119_skilling_chest (Skilling chest) at 3,0,0,0,
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on trh119_skilling_chest (Skilling chest) at 3,0,0,0,
+CAMERA_CHANGE X Angle: 174, Y Angle: 193
+MOUSE_CLICK RIGHT coordinate: 386,55
+MOUSE_CLICK (native)	MIDDLE coordinate: 394,58
+CAMERA_CHANGE X Angle: 302, Y Angle: 145
+MOUSE_CLICK (native)	LEFT coordinate: 786,84
+MOUSE_CLICK LEFT coordinate: 778,81
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on trh78_dg_box_medium (Medium dungeoneering token box) at 3,0,0,0,
+MOUSE_CLICK LEFT coordinate: 918,78
+MOUSE_CLICK (native)	LEFT coordinate: 926,81
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on trh78_dg_box_small (Small dungeoneering token box) at 3,0,0,0,
+MOUSE_CLICK LEFT coordinate: 466,45
+MOUSE_CLICK (native)	LEFT coordinate: 474,48
+SERVER_TRIGGER OPLOC2 on elfcity_bank_chest (Bank chest) at 1,34,51,57,4
+MOUSE_CLICK RIGHT coordinate: 829,77
+MOUSE_CLICK (native)	RIGHT coordinate: 837,80
+MOUSE_CLICK (native)	LEFT coordinate: 838,86
+MOUSE_CLICK LEFT coordinate: 830,83
+SERVER_TRIGGER IF_BUTTON4 on Unknown - Null component debugnam
+MOUSE_CLICK LEFT coordinate: 833,74
+MOUSE_CLICK (native)	LEFT coordinate: 841,77
+MOUSE_CLICK (native)	RIGHT coordinate: 800,81
+SERVER_TRIGGER IF_BUTTON1 on Unknown - Null component debugnam
+MOUSE_CLICK RIGHT coordinate: 792,77
+KEY_PRESS Key Name: Ctrl, Key Code: 8
+KEY_PRESS Key Name: Ctrl, Key Code: 8
+KEY_PRESS Key Name: 3, Key Code: 1
+SERVER_TRIGGER IF_BUTTON1 on Unknown - Null component debugnam
+MOUSE_CLICK (native)	LEFT coordinate: 902,16
+MOUSE_CLICK LEFT coordinate: 894,13
+ROUTE MINIMAP: 1,34,51,48,3
+COORD_CHANGE 1,34,51,55,4
+MOUSE_CLICK RIGHT coordinate: 257,29
+MOUSE_CLICK (native)	MIDDLE coordinate: 265,32
+CAMERA_CHANGE X Angle: 302, Y Angle: 145
+COORD_CHANGE 1,34,51,55,4
+CAMERA_CHANGE X Angle: 260, Y Angle: 67
+COORD_CHANGE 1,34,51,55,3
+MOUSE_CLICK LEFT coordinate: 363,19
+MOUSE_CLICK (native)	LEFT coordinate: 371,22
+COORD_CHANGE 1,34,51,53,3
+COORD_CHANGE 1,34,51,51,3
+COORD_CHANGE 1,34,51,49,3
+COORD_CHANGE 1,34,51,48,3
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK LEFT coordinate: 528,47
+MOUSE_CLICK (native)	LEFT coordinate: 536,51
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK RIGHT coordinate: 285,67
+MOUSE_CLICK (native)	RIGHT coordinate: 293,70
+MOUSE_CLICK LEFT coordinate: 337,78
+MOUSE_CLICK (native)	LEFT coordinate: 345,81
+SERVER_TRIGGER SOFTCLICKPLAYER8 on 2371981976322821 at 1,34,51,50,3
+MOUSE_CLICK RIGHT coordinate: 643,56
+MOUSE_CLICK (native)	RIGHT coordinate: 651,59
+MOUSE_CLICK (native)	LEFT coordinate: 643,73
+MOUSE_CLICK LEFT coordinate: 635,70
+SERVER_TRIGGER SOFTCLICKPLAYER8 on 1058632189737632 at 1,34,51,48,3
+MOUSE_CLICK LEFT coordinate: 233,2
+MOUSE_CLICK (native)	LEFT coordinate: 241,5
+SERVER_TRIGGER IF_BUTTON1 on player_inspect: close_button_laye
+MOUSE_CLICK RIGHT coordinate: 478,27
+MOUSE_CLICK (native)	MIDDLE coordinate: 486,30
+CAMERA_CHANGE X Angle: 260, Y Angle: 67
+CAMERA_CHANGE X Angle: 265, Y Angle: 46
+MOUSE_CLICK (native)	MIDDLE coordinate: 606,31
+MOUSE_CLICK RIGHT coordinate: 598,28
+CAMERA_CHANGE X Angle: 265, Y Angle: 46
+KEY_PRESS Key Name: Enter, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: W, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: ', Key Code: 5
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: L, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: B, Key Code: 6
+KEY_PRESS Key Name: U, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: R, Key Code: 3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: ', Key Code: 5
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: V, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: BackSpace, Key Code: 8
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: A, Key Code: 4
+KEY_PRESS Key Name: D, Key Code: 5
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: N, Key Code: 6
+KEY_PRESS Key Name: G, Key Code: 5
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: C, Key Code: 6
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: F, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: R, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: H, Key Code: 5
+KEY_PRESS Key Name: O, Key Code: 4
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: I, Key Code: 3
+KEY_PRESS Key Name: T, Key Code: 3
+KEY_PRESS Key Name: E, Key Code: 3
+KEY_PRESS Key Name: M, Key Code: 7
+KEY_PRESS Key Name: S, Key Code: 4
+KEY_PRESS Key Name: Space, Key Code: 8
+KEY_PRESS Key Name: Enter, Key Code: 8
+CAMERA_CHANGE X Angle: 265, Y Angle: 46
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 440,50
+MOUSE_CLICK LEFT coordinate: 432,47
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 52,47
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 455,48
+MOUSE_CLICK LEFT coordinate: 447,45
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 791,71
+MOUSE_CLICK LEFT coordinate: 783,68
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_inventory: item_laye
+SERVER_TRIGGER OPHELD1 on 6dosecombosupremeoverload (Supreme overload potion (6)) at 3,0,0,0,
+MOUSE_CLICK (native)	LEFT coordinate: 432,49
+MOUSE_CLICK LEFT coordinate: 424,46
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK LEFT coordinate: 793,95
+MOUSE_CLICK (native)	LEFT coordinate: 801,98
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_ribbon: window_buil
+MOUSE_CLICK LEFT coordinate: 841,95
+MOUSE_CLICK (native)	LEFT coordinate: 849,98
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2_ribbon: window_buil
+MOUSE_CLICK (native)	LEFT coordinate: 492,49
+MOUSE_CLICK LEFT coordinate: 484,46
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 917,1
+MOUSE_CLICK (native)	LEFT coordinate: 434,48
+MOUSE_CLICK (native)	LEFT coordinate: 697,53
+MOUSE_CLICK (native)	LEFT coordinate: 502,50
+MOUSE_CLICK LEFT coordinate: 494,47
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 393,5
+MOUSE_CLICK (native)	LEFT coordinate: 341,7
+MOUSE_CLICK (native)	LEFT coordinate: 458,50
+MOUSE_CLICK LEFT coordinate: 450,47
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 911,83
+MOUSE_CLICK (native)	LEFT coordinate: 705,92
+MOUSE_CLICK (native)	LEFT coordinate: 495,50
+MOUSE_CLICK LEFT coordinate: 487,47
+SERVER_TRIGGER OPLOC1 on mining_elfcity_seren_stone (Seren stone) at 1,34,51,47,3
+MOUSE_CLICK (native)	LEFT coordinate: 600,49
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 426,4
+MOUSE_CLICK (native)	LEFT coordinate: 292,40
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 681,7
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 588,13
+MOUSE_CLICK (native)	LEFT coordinate: 360,12
+MOUSE_CLICK (native)	LEFT coordinate: 291,51
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 325,13
+MOUSE_CLICK (native)	LEFT coordinate: 250,34
+MOUSE_CLICK (native)	LEFT coordinate: 965,14
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 781,13
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 735,59
+MOUSE_CLICK (native)	LEFT coordinate: 30,4
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+MOUSE_CLICK (native)	LEFT coordinate: 137,45
+MOUSE_CLICK (native)	RIGHT coordinate: 175,38
+MOUSE_CLICK (native)	LEFT coordinate: 389,30
+MOUSE_CLICK (native)	LEFT coordinate: 492,25
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
+SERVER_TRIGGER IF_BUTTON1 on toplevel_v2: five_min_warning_message_listene
